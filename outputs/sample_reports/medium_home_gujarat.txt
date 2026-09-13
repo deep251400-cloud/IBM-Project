@@ -1,0 +1,8 @@
+Scenario: medium_home_gujarat
+System cost: ₹300,000
+Subsidy: 30%
+Monthly savings: ₹2,500
+Location: Gujarat
+
+Generated Report:
+A rooftop solar system for a homeowner in Gujarat can be a great investment, but it's important to understand the financial aspects. The total system cost is ₹300,000, and with a 30% government subsidy, the net cost after the subsidy is ₹210,000. This leaves a net savings of ₹2,500 per month. The payback period is 7.0 years, which means the investment will pay off in about seven years. The Internal Rate of Return (IRR) is 13.71%, which is a good sign that the investment is promising.

@@ -1,0 +1,10 @@
+Scenario: large_msme_national
+System cost: ₹800,000
+Subsidy: 20%
+Monthly savings: ₹6,000
+Location: India
+
+Generated Report:
+The feasibility report for a rooftop solar system in India is as follows:
+
+The total system cost for the rooftop solar system is ₹800,000. After applying the 20% government subsidy, the net cost becomes ₹640,000. This leaves a net savings of ₹6,000 per month. The payback period for the system is 8.89 years, which is quite reasonable. The Internal Rate of Return (IRR) for the system is 10.27%, indicating a strong financial return on investment.
